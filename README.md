@@ -4,7 +4,7 @@ This project presents an Excel-based dashboard built to analyze and visualize tr
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ## 📊 Dashboard Features
 
